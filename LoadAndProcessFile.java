@@ -2776,7 +2776,7 @@ public class LoadAndProcessFile {
 					                     errDateFormat,keyOrDateAsFirstField,packetNoInErrors,zeroErrorsFileRequired);
 		}
 		 
-		System.out.println("program ended");
+		System.out.println("program ended1");
 	}  //main
 	
  	
