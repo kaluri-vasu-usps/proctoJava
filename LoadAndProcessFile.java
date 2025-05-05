@@ -2778,6 +2778,5 @@ public class LoadAndProcessFile {
 		 
 		System.out.println("program ended1");
 	}  //main
-	
  	
 }
