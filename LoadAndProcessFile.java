@@ -667,8 +667,6 @@ public class LoadAndProcessFile {
 				PrintTemplateRec printTemplateRec = new PrintTemplateRec();
 				
 			 
-				
-
 				if (fileList.length>0) {
 					//fetch the template setup in IBPS
 					try {
