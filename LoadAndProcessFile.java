@@ -2753,7 +2753,7 @@ public class LoadAndProcessFile {
 			 
 		}
 	
-	
+		
 	 	/*
 		interfaceNumStr="106-19"
 		connectionNameStr="xdhzc0_dmdims0"
@@ -2765,7 +2765,7 @@ public class LoadAndProcessFile {
 		//106-22  USPISANP
 
 		*/
- 	
+ 		/*if validation is good*/
  		if (continueProcess){
 			LoadAndProcessFile loadAndProcessFile = new LoadAndProcessFile();
 			//loadAndProcessFile.runProcess(interfaceNumStr,connectionNameStr,fileOptStr,ordEntrySrc,addresssValidationInd, dupRecordsValidationInd,ignoreZipAddress);//,delimiterTypeStr,delimiterStr,enclosedBy,hdrIncludedFlag,positionOrNameBased,null,10 )
